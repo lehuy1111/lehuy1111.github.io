@@ -123,6 +123,11 @@
                                                     name: "ZALO",
                                                     ctk: "Lê Hoàng Gia Huy",
                                                     stk: "0921617934"
+                                                }, {
+                                                    logo: "tiktok",
+                                                    name: "TIK TOK",
+                                                    ctk: "Lê Hoàng Gia Huy",
+                                                    stk: "@huyy..2005"
                                                 }])
                                             }));
                                         case 2:
